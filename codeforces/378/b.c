@@ -1,3 +1,5 @@
+// http://codeforces.com/problemset/problem/733/B
+
 #include <stdio.h>
 
 #define N 100001
