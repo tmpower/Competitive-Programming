@@ -1,3 +1,5 @@
+// http://codeforces.com/problemset/problem/733/A
+
 #include <stdio.h>
 #include <string.h>
 
